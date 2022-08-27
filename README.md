@@ -31,4 +31,4 @@
 
 ![Screenshot (104)](https://user-images.githubusercontent.com/109969987/187027280-39b3fdfc-0672-4e90-87b1-b3a2eab0d29c.png)
 
-The link to the website is :
+The link to the website is :https://delightful-sand-0f80bd510.1.azurestaticapps.net/
